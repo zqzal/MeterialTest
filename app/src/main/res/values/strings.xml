@@ -3,4 +3,5 @@
     <string name="backup">Backup</string>
     <string name="delete">Delete</string>
     <string name="setting">Setting</string>
+    <string name="thisismenu">This is Menu</string>
 </resources>
